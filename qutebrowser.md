@@ -12,25 +12,15 @@ sudo pacman -S qutebrowser
 ```
 sudo pacman -S python-adblock
 ```
-When in qb, run
-```
-:adblock-update
-```
+When in qb, run `:adblock-update`
+
 TODO: somehow add better list and  
 some german stuff from ublock?  
 
 #### Always use private mode  
 
-When in qb, run  
-```
-:set
-```
-to enter the settings page.  
-Change the value of  
-```
-content.private_browsing
-```
-from false to true.  
+When in qb, run `:set` to enter the settings page.  
+Change the value of `content.private_browsing` from `false` to `true`.  
 
 This will deactivate the recording of visited pages (history).  
 I neither want nor need such a recording. 
@@ -49,6 +39,20 @@ while you won't need a history that you may want to delete.
 
 
 ### Basic Individualization  
+
+#### Simplify by autohide
+
+I have no need to see tabs or the status bar when not currently in use.  
+Therefore you can autohide them by default and set a duration of your choice.  
+Whenever you switch your tabs or use the status bar they will be displayed.  
+
+Enter the settings page.  
+Change the value of `tabs.show` from `always` to `switching`.  
+Change the value of `tabs.show_switching-delay` to your liking (1500 for me).
+Change the value of `statusbar.show` from `always` to `in-mode`.
+
+Your window is now completely clean and makes full use of your screen.  
+But one more reason to learn the basic keybindings, which is rewarding.  
 
 #### Choose your search engine
 
