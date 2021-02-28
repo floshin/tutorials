@@ -54,10 +54,10 @@ to your search engine of choice.
 I recommend ...  TODO  
 
 * Set a startpage of choice:  
-* 
-Enter the settings page.
+
+Enter the settings page.  
 Change the value of  
 ```
 url.default_page
 ```
-to an url of your choice.
+to an url of your choice.   
