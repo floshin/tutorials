@@ -43,7 +43,8 @@
   * union on arch  
 
 ### phone
-* choice of device  
+* choice of device
+* ethernet connection  
 * graphene  
   * verification  
 * signal  
