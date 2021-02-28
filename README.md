@@ -32,7 +32,7 @@
 * network manager if forced to use wlan  
 * pi-hole setup for blocking ads  
 * pi-setup for using tor  
-* qutebrowser (setup and use)  
+* qutebrowser (setup for privacy and use)  
 
 ### writing/editing
 * (neo)vim (setup, patching and basic use)  
