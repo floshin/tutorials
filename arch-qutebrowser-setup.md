@@ -25,7 +25,7 @@ When in qb, run
 ```
 :set
 ```
-to enter the settings page. 
+to enter the settings page.  
 Change the value of  
 ```
 content.private_browsing
