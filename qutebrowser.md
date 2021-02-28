@@ -23,11 +23,8 @@ When in qb, run `:set` to enter the settings page.
 Change the value of `content.private_browsing` from `false` to `true`.  
 
 This will deactivate the recording of visited pages (history).  
-I neither want nor need such a recording. 
-
-##### Use bookmarks instead
-
-When I want to remember a page, I use bookmarks:  
+I neither want nor need such a recording. I use bookmarks instead.  
+To list, add or delete bookmarks, use the following commands:  
 ```
 :bookmark-add    // add a bookmark
 :bookmark-del    // delete a bookmark
@@ -48,8 +45,8 @@ Whenever you switch your tabs or use the status bar they will be displayed.
 
 Enter the settings page.  
 Change the value of `tabs.show` from `always` to `switching`.  
-Change the value of `tabs.show_switching-delay` to your liking (1500 for me).
-Change the value of `statusbar.show` from `always` to `in-mode`.
+Change the value of `tabs.show_switching-delay` to your liking (1500 for me).  
+Change the value of `statusbar.show` from `always` to `in-mode`.  
 
 Your window is now completely clean and makes full use of your screen.  
 But one more reason to learn the basic keybindings, which is rewarding.  
