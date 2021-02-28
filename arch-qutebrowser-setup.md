@@ -1,14 +1,14 @@
-qb setup on arch
--------------------------
+## qb setup on arch
 
-(1) Install qutebrowser (qb)
+
+### Install qutebrowser (qb)
 ```
 sudo pacman -S qutebrowser
 ```
 
-(2) Basic Privacy settings 
+### Privacy settings 
 
-* Add improved adblocking:
+#### Add improved adblocking
 ```
 sudo pacman -S python-adblock
 ```
@@ -19,7 +19,7 @@ When in qb, run
 TODO: somehow add better list and  
 some german stuff from ublock?  
 
-* Always use private mode:  
+#### Always use private mode  
 
 When in qb, run  
 ```
@@ -32,18 +32,25 @@ content.private_browsing
 ```
 from false to true.  
 
-Doing so will deactivate recording of visited pages (history).  
-I neither want nor need such a recording. When I want to  
-remember a page, I use bookmarks to save them:  
+This will deactivate the recording of visited pages (history).  
+I neither want nor need such a recording. 
+
+##### Use bookmarks instead
+
+When I want to remember a page, I use bookmarks:  
 ```
 :bookmark-add    // add a bookmark
 :bookmark-del    // delete a bookmark
 :bookmark-list   // list bookmarks
 ```
+When you type, qb will suggest urls from your bookmark list.  
+That means, it is really easy to revisit your saved pages,  
+while you won't need a history that you may want to delete.  
 
-(3) Basic Individualization  
 
-* Choose your search engine:  
+### Basic Individualization  
+
+#### Choose your search engine
 
 Enter the settings page.
 Change the value of  
@@ -53,7 +60,7 @@ url.searchengines
 to your search engine of choice.   
 I recommend ...  TODO  
 
-* Set a startpage of choice:  
+#### Set a startpage of choice
 
 Enter the settings page.  
 Change the value of  
