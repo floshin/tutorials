@@ -1,12 +1,14 @@
 qb setup on arch
 -------------------------
 
-(1) Install qutebrowser (qb):
+(1) Install qutebrowser (qb)
 ```
 sudo pacman -S qutebrowser
 ```
 
-(2) Add improved adblocking:
+(2) Basic Privacy settings 
+
+* Add improved adblocking:
 ```
 sudo pacman -S python-adblock
 ```
@@ -17,14 +19,14 @@ When in qb, run
 TODO: somehow add better list and  
 some german stuff from ublock?  
 
-
-(3) Always use private mode:  
+* Always use private mode:  
 
 When in qb, run  
 ```
 :set
 ```
-change 
+to enter the settings page. 
+Change the value of  
 ```
 content.private_browsing
 ```
@@ -39,9 +41,23 @@ remember a page, I use bookmarks to save them:
 :bookmark-list   // list bookmarks
 ```
 
-(4) Choose your search engine:  
-TODO
+(3) Basic Individualization  
 
-(5) Set a startpage of choice:  
-TODO
+* Choose your search engine:  
 
+Enter the settings page.
+Change the value of  
+```
+url.searchengines
+```
+to your search engine of choice.   
+I recommend ...  TODO  
+
+* Set a startpage of choice:  
+* 
+Enter the settings page.
+Change the value of  
+```
+url.default_page
+```
+to an url of your choice.
