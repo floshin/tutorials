@@ -28,7 +28,7 @@
 * email encryption  
 
 ### network
-* basic principles of internet usage  
+* [basic principles of internet usage](/internet-usage.md)  
 * network manager if forced to use wlan  
 * pi-hole setup for blocking ads  
 * pi-setup for using tor  
