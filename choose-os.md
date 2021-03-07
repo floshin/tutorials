@@ -34,4 +34,4 @@ from LibreSSL back to OpenSSL.
 * It does not use systemd, but runit
 * It offers a musl build 
 
-Therefore, Void is the current operating system of choice by the criteria above. 
+In this sense, Void is the current operating system of choice. 
