@@ -26,7 +26,7 @@ Only Void (or something like gentoo, in which you configure everything yourself)
 is fulfilling (almost) all the requirements above. Almost, because they switched 
 from LibreSSL back to OpenSSL.
 
-* It is relatively easy to setup (although it could be more user-friendly)
+* It is relatively easy to setup(*)
 * It is free and open source, developed by individuals
 * It is lightweight and does not ship programmes you may not need
 * It is rolling-release but thereby less likely to break than (even) arch
@@ -35,3 +35,5 @@ from LibreSSL back to OpenSSL.
 * It offers a musl build 
 
 In this sense, Void is the current operating system of choice. 
+
+(* I think it could be more user-friendly, for example regarding the partitioning or by offering you an easy way to encrypt the system by default)
