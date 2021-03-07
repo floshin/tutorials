@@ -10,7 +10,9 @@ you'll get the picture by the sketches on his chalkboard:
 * You as the user should have control over your system, not getting controlled by it
 * Under your hands it should take the shape you wish instead of forcing its shape on you
 * It should be up-to-date and enable you to automate updates w/o to break your system
-* It should be easy to use, although you may need to learn something new at first
+* It should be easy to use, although youThus, bonus points if it...
+
+ may need to learn something new at first
 
 If you are concerned about security, which you should be on principle (because why 
 wouldn't you prefer to have a more secure system?), you may also want to read what the 
@@ -36,4 +38,4 @@ from LibreSSL back to OpenSSL.
 
 In this sense, Void is the current operating system of choice. 
 
-(* I think it could be more user-friendly by still being very simple, if it would offer an installation like ArchLabs, would make partitioning easier and more self-explanatory and by offering you an easy way to encrypt the system by default)
+(* I think it could be more user-friendly, while still being very simple, if it would offer an installation like ArchLabs, if it would make partitioning easier and more self-explanatory and by offering you an easy way to encrypt the system by default)
