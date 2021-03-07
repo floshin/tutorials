@@ -9,8 +9,8 @@ you'll get the picture by the sketches on his chalkboard:
 * It should keep being as I want it to be, instead of changing according to every trend
 * You as the user should have control over your system, not getting controlled by it
 * Under your hands it should take the shape you wish instead of forcing its shape on you
-* It should be easy to use, although you may need to learn something new at first
 * It should be up-to-date and enable you to automate updates w/o to break your system
+* It should be easy to use, although you may need to learn something new at first
 
 If you are concerned about security, which you should be on principle, 
 you may also want to read what the well-known security researcher madaidan 
