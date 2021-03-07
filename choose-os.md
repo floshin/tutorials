@@ -14,7 +14,7 @@ you'll get the picture by the sketches on his chalkboard:
 
 If you are concerned about security, which you should be on principle, 
 you may also want to read what the well-known security researcher madaidan 
-has to say about [choosing the right distro](https://madaidans-insecurities.github.io/guides/linux-hardening.html#choosing-the-right-distro)
+has to say about [choosing the right distro](https://madaidans-insecurities.github.io/guides/linux-hardening.html#choosing-the-right-distro).
 
 Thus, bonus points if it...
 * Does not use systemd
