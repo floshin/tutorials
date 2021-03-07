@@ -12,9 +12,9 @@ you'll get the picture by the sketches on his chalkboard:
 * It should be up-to-date and enable you to automate updates w/o to break your system
 * It should be easy to use, although you may need to learn something new at first
 
-If you are concerned about security, which you should be on principle, 
-you may also want to read what the well-known security researcher madaidan 
-has to say about [choosing the right distro](https://madaidans-insecurities.github.io/guides/linux-hardening.html#choosing-the-right-distro).
+If you are concerned about security, which you should be on principle (because why 
+wouldn't you prefer to have a more secure system?), you may also want to read what the 
+well-known security researcher madaidan has to say about [choosing the right distro](https://madaidans-insecurities.github.io/guides/linux-hardening.html#choosing-the-right-distro).
 
 Thus, bonus points if it...
 * Does not use systemd
