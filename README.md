@@ -3,7 +3,8 @@
 ## todo  
 
 ### system setup
-* arch w/o systemd (basic full encrypted system setup)  
+* [choose your operating system](choose-os.md)
+* void linux setup with full encryption  
   * dwm (dyn. window manager setup and use)  
   * lf/ranger (file manager setup and use)  
   * dmenu (setup, patching and use)  
