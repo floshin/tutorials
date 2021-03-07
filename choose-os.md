@@ -36,4 +36,4 @@ from LibreSSL back to OpenSSL.
 
 In this sense, Void is the current operating system of choice. 
 
-(* I think it could be more user-friendly, for example regarding the partitioning or by offering you an easy way to encrypt the system by default)
+(* I think it could be more user-friendly by still being very simple, if it would offer an installation like ArchLabs, would make partitioning easier and more self-explanatory and by offering you an easy way to encrypt the system by default)
