@@ -26,10 +26,10 @@ Only Void (or something like gentoo, in which you configure everything yourself)
 is fulfilling (almost) all the requirements above. Almost, because they switched 
 from LibreSSL back to OpenSSL.
 
-* It is easy to setup  
+* It is relatively easy to setup (although it could be more user-friendly)
 * It is free and open source, developed by individuals
-* It does not ship all kinds of programmes that you may not need
-* It is rolling-release, thereby much less likely to break than arch
+* It is lightweight and does not ship programmes you may not need
+* It is rolling-release but thereby less likely to break than (even) arch
 * Its package manager [xbps](https://docs.voidlinux.org/xbps/index.html) is probably the best
 * It does not use systemd, but runit
 * It offers a musl build 
