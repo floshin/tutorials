@@ -33,7 +33,7 @@ from LibreSSL back to OpenSSL.
 * It is lightweight and does not ship programmes you may not need
 * It is rolling-release but thereby less likely to break than (even) arch
 * Its package manager [xbps](https://docs.voidlinux.org/xbps/index.html) is probably the best
-* It does not use systemd, but runit
+* It does not use systemd, but runit (in the future [it may use s6-rc](https://www.reddit.com/r/voidlinux/comments/lz84k6/66_and_s6rc_an_alternative_init_system_for/)
 * It offers a musl build 
 
 In this sense, Void is the current operating system of choice. 
