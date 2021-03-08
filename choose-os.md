@@ -1,6 +1,6 @@
 In [this excellent video](https://www.youtube.com/watch?v=z1-yuolwrVs) 
 a guy called Ahmed summarizies his reasoning behind choosing his operating system, 
-that are pretty much in accordance with mine. Although he speaks arabic, 
+that seem pretty much in accordance with mine. Although he speaks arabic, 
 you'll get the picture by the sketches on his chalkboard:  
 
 * It is in your interest to have an OS that is free and open source, not proprietary
